@@ -2,7 +2,7 @@
 
 [ссылка на источник](https://blogs.adobe.com/creativecloud/best-practices-for-designing-compelling-email-experiences/?trackingid=MLR7SF2L&mv=email)
 
-![alt-text](https://blogsimages.adobe.com/creativecloud/wp-content/themes/AdobeCreativeCloud/images/featured/feature_spacer.png)
+(https://blogsimages.adobe.com/creativecloud/wp-content/themes/AdobeCreativeCloud/images/featured/feature_spacer.png)
 
 ## Лучшие практики для дизайна имейлов
 
